@@ -10,6 +10,7 @@
 | [Steam创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=299974223)      | 下载、解答、交流、反馈 | 活跃中 |
 | [Trell](https://trello.com/b/ntzYNdEA/the-last-days-of-the-third-age-warband-port) | 待办列表、制作进度   | 活跃中 |
 | [Discord](https://discord.gg/uczcz34)                                              | 解答、交流、反馈    | 活跃中 |
+| [Bitbucket](https://bitbucket.org/swyter/tld-downloads/downloads/)                 | 下载          | 活跃中 |
 | [GitHub](https://github.com/tldmod)                                                | 更新情况        | 活跃中 |
 
 ## 其他子MOD
